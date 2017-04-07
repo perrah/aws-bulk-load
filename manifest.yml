@@ -1,0 +1,8 @@
+---
+applications:
+  - name: gels-d3-api
+    buildpack: https://github.com/cloudfoundry/buildpack-nodejs.git
+    memory: 64M
+    command: node app.js
+    env:
+      ENV: "cloud"

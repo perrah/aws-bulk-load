@@ -1,6 +1,8 @@
 {
-    "dependencies": {
-        "aws-sdk": ">= 2.0.9",
-        "node-uuid": ">= 1.4.1"
-    }
+  "dependencies": {
+    "aws-sdk": ">= 2.0.9",
+    "express": "^4.15.2",
+    "make-runnable": "^1.1.1",
+    "node-excel-to-json": "0.0.3"
+  }
 }
