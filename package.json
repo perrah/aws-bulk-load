@@ -2,7 +2,9 @@
   "dependencies": {
     "aws-sdk": ">= 2.0.9",
     "express": "^4.15.2",
+    "fs": "0.0.1-security",
     "make-runnable": "^1.1.1",
-    "node-excel-to-json": "0.0.3"
+    "node-excel-to-json": "0.0.3",
+    "proxy-agent": "^2.0.0"
   }
 }

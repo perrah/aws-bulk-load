@@ -33,7 +33,7 @@ Firstly you will need to place all the files you want to upload into a folder so
 
 Secondly you want to create a mapper_file which will be used to add metadata (if you wish - optional choice) to the files directly on upload.
 
-The second file (mapper_file) is important to get right. you need a field named "file name" (with the space) which will be used to locate the file in the folder and then any other fields you name will be the meta data that the documents are tagged with.
+The second file (mapper_file) is important to get right. you need a field named "file-name" which will be used to locate the file in the folder and then any other fields you name will be the meta data that the documents are tagged with. its suggested you also lowercase and dash seperate your other field names in your excel file - these will be used to  create the names of your metadata.
 
 ## Running the Bulk upload sample
 
