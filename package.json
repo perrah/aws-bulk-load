@@ -1,10 +1,11 @@
 {
   "dependencies": {
     "aws-sdk": ">= 2.0.9",
+    "command-line-args": "^4.0.2",
     "express": "^4.15.2",
     "fs": "0.0.1-security",
-    "make-runnable": "^1.1.1",
-    "node-excel-to-json": "0.0.3",
-    "proxy-agent": "^2.0.0"
+    "path": "^0.12.7",
+    "proxy-agent": "^2.0.0",
+    "xls-to-json": "^0.4.0"
   }
 }
